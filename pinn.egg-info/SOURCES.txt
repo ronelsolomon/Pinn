@@ -1,0 +1,16 @@
+README.md
+setup.py
+pinn/__init__.py
+pinn.egg-info/PKG-INFO
+pinn.egg-info/SOURCES.txt
+pinn.egg-info/dependency_links.txt
+pinn.egg-info/requires.txt
+pinn.egg-info/top_level.txt
+pinn/core/__init__.py
+pinn/core/losses.py
+pinn/core/network.py
+pinn/core/trainer.py
+pinn/problems/__init__.py
+pinn/problems/base.py
+pinn/problems/burgers.py
+pinn/problems/heat.py
